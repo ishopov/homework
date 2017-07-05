@@ -1,0 +1,5 @@
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Character_Stats\bin\Debug\Character_Stats.exe.config
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Character_Stats\bin\Debug\Character_Stats.exe
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Character_Stats\bin\Debug\Character_Stats.pdb
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Character_Stats\obj\Debug\Character_Stats.exe
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Character_Stats\obj\Debug\Character_Stats.pdb

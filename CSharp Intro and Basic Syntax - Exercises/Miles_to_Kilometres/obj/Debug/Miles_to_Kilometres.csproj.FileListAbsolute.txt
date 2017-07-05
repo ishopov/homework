@@ -1,0 +1,1 @@
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Miles_to_Kilometres\bin\Debug\Miles_to_Kilometres.exe.config

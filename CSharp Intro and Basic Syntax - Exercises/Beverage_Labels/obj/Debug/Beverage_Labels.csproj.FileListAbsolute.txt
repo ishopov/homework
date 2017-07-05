@@ -1,0 +1,5 @@
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Beverage_Labels\bin\Debug\Beverage_Labels.exe.config
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Beverage_Labels\bin\Debug\Beverage_Labels.exe
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Beverage_Labels\bin\Debug\Beverage_Labels.pdb
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Beverage_Labels\obj\Debug\Beverage_Labels.exe
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Beverage_Labels\obj\Debug\Beverage_Labels.pdb

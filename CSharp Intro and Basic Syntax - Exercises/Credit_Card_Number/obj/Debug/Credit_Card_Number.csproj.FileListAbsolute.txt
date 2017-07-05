@@ -1,0 +1,6 @@
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Credit_Card_Number\bin\Debug\Credit_Card_Number.exe.config
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Credit_Card_Number\bin\Debug\Credit_Card_Number.exe
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Credit_Card_Number\bin\Debug\Credit_Card_Number.pdb
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Credit_Card_Number\obj\Debug\Credit_Card_Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Credit_Card_Number\obj\Debug\Credit_Card_Number.exe
+D:\SoftUni\02. Fundamentals\03. C# Intro and Basic Syntax\Judge\CSharp Intro and Basic Syntax - Exercises\Credit_Card_Number\obj\Debug\Credit_Card_Number.pdb
